@@ -1,1 +1,1 @@
-# https-jovian.com-yash-kavaiya-quora-text-classification
+# Quora-text-classification
